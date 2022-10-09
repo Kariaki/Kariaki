@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kariaki" alt="kariaki" /></a> </p>
 
-- 🔭 I’m currently working on **Cross platform food delivery application**
+- 🔭 I’m currently working on **Cross platform Chat application using Flutter and Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/developer?id=Pex+online+services](https://play.google.com/store/apps/developer?id=Pex+online+services)
 
