@@ -30,4 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kariaki&show_icons=true&locale=en" alt="kariaki" /></p>
 
 ### :fire: My Stats :
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kariaki&theme=dark&background=000000" alt="kariaki" /></p>
+
