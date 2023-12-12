@@ -2,7 +2,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Ebilate</h1>
-<h3 align="center">A passionate Mobile developer</h3>
+<h3 align="center">Senior Mobile Software Engineer</h3>
 
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kariaki&label=Profile%20views&color=0e75b6&style=flat" alt="kariaki" /> </p>
