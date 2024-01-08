@@ -8,11 +8,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kariaki&label=Profile%20views&color=0e75b6&style=flat" alt="kariaki" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kariaki" alt="kariaki" /></a> </p>
-
-- 🔭 I’m currently working on **Cross platform Chat application using Flutter and Kotlin**
-
-- 👨‍💻 All of my projects are available at [https://play.google.com/store/apps/developer?id=Pex+online+services](https://play.google.com/store/apps/developer?id=Pex+online+services)
-
 - 💬 Ask me about **Native Android development, Flutter and Kotlin**
 
 - 📫 How to reach me **kariaki.ebilate@gmail.com**
